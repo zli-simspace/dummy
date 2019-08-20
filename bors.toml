@@ -1,3 +1,4 @@
 block_labels = [ "WIP" ]
 status = [ "dummy/ci" ]
 pr_status = [ "manual/slow-ci" ]
+delete_merged_branches = true
